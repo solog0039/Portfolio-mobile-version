@@ -98,7 +98,7 @@
   position: relative;
   margin-top: 0;
   margin-left: 20px;
-  background-color:white;
+  background-color: white;
 }
 
 .H1 {
@@ -148,7 +148,7 @@
   width: 75%;
   margin-left: 10%;
   margin-top: 5%;
-  font-size: 14px;   
+  font-size: 14px;
   color: #1c1a19;
   flex: 1;
 }
@@ -167,7 +167,7 @@
 
 .see-project {
   position: relative;
-  margin-top: 8px; 
+  margin-top: 8px;
   width: 40%;
   color: white;
   background-color: #ff6b00;
@@ -221,10 +221,6 @@ a:hover {
   flex-grow: 0;
   margin: 12px 0;
 }
-
-.see-project-1 {
-  
-}
   
 .see-project-1 {
   position: relative;
@@ -238,7 +234,7 @@ a:hover {
   background-image: url(image\seeproject.png);
   background-repeat: no-repeat;
 }
- 
+
 .see-project-1:hover {
   border: 2px solid blue;
   text-decoration: underline;
