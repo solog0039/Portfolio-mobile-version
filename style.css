@@ -7,6 +7,7 @@
   text-decoration: none;
   font-family: 'Poppins', sans-serif;
 }
+
 .text-color {
   color: white;
 }
@@ -20,7 +21,7 @@
 }
 
 .main-header {
-  background-color: #3C3A39;
+  background-color: #3c3a39;
   width: 100vw;
 }
 
@@ -28,9 +29,8 @@
   height: 20px;
 }
 
-
 .section-1 {
-  background-color: #1C1A19;
+  background-color: #1c1a19;
   height: 100vh;
   width: 100vw;
 }
@@ -38,11 +38,13 @@
 .heading-1-container {
   margin-bottom: 20px;
 }
+
 .margin-24 {
   margin: 0 24px;
 }
+
 .heading-1 {
-  color: #FF6B00;
+  color: #ff6B00;
   font-size: 46px;
   width: 327px;
   font-weight: 400;
@@ -56,10 +58,12 @@
   justify-content: space-between;
   color: white;
 }
+
 .social-links > ul {
   display: flex;
   flex-direction: row;
 }
+
 .social-links > ul > li {
   display: flex;
   margin: 20px;
@@ -77,14 +81,13 @@
 /* my recent wor*/
 
 .section-2 {
-  background: #E5E5E5;
+  background: #e5e5e5;
   margin-bottom: 200px;
   }
 
   .gridd {
   display: grid;
   grid-template-columns: auto;
-    
   }
 
 .my-recent-works {
@@ -97,14 +100,15 @@
   margin-left: 20px;
   background-color: white
 }
+
 .H1 {
- position: relative;
+  position: relative;
   width: 90%;
   margin-top: 20%;
   margin-left: 5%;
   font-size: 24px;
   align-self: center;
-  color: #1C1A19;
+  color: #1c1a19;
   order: 0;
 }
 
@@ -122,11 +126,11 @@
   position: relative;
   margin-top: 10%;
   margin-left: 10%;
-  width: 850%;
-  height: 150px;
+  width: 85%;
   max-width: 100%;
   align-self: center;
 }
+
 .H2 {
   position: relative;
   width: 90%;
@@ -135,7 +139,7 @@
   font-size: 18px;
   align-self: center;
   height: 30px;
-  color: #1C1A19;
+  color: #1c1a19;
   order: 0;
 }
 
@@ -146,10 +150,9 @@
   margin-top: 5%;
   font-size: 14px;   
   color: #1c1a19;
-  flex:1;
-  order: 0;
-
+  flex: 1;
 }
+
 .buttons-0 {
   display: flex;
   flex-direction: row;
@@ -168,12 +171,12 @@
   margin-left: 8px;
   width: 40%;
   color: white;
-  background-color: #FF6B00;
+  background-color: #ff6b00;
   height: 30px;
   margin-bottom: 4px;
 }
 
-.seep {
+.see-project {
   left: 24px;
   margin-left: 12px;
   align-items: center;
@@ -184,9 +187,11 @@
   text-decoration: underline;
   text-decoration-color: blue;
 }
+
 a:hover {
   text-decoration: underline;
 }
+
 .btn:hover {
   border: 2px solid blue;
   text-decoration: underline;
@@ -216,7 +221,7 @@ a:hover {
   font-weight: 400;
   font-size: 24px;
   line-height: 44px;
-  color: #FFFFFF;
+  color: #fff;
   order: 0;
   flex-grow: 0;
   margin: 12px 0px;
@@ -228,23 +233,18 @@ a:hover {
   margin-left: 8%;
   width: 25%;
   color: white;
-  background-color: #FF6B00;
+  background-color: #ff6b00;
   height: 20px;
 }
-
-.buttons-0 {
-   display: flex;
-   flex-direction: row;
-}
-
+  
 .see-project-1 {
-   position: relative;
-   margin-top: 2px;
-   margin-left: 0;
-   justify-items: center;
-   width: 100%;
-   background-image: url(image\seeproject.png);
-   background-repeat: no-repeat;
+  position: relative;
+  margin-top: 2px;
+  margin-left: 0;
+  justify-items: center;
+  width: 100%;
+  background-image: url(image\seeproject.png);
+  background-repeat: no-repeat;
 }
  
 .see-project-1:hover {
@@ -283,7 +283,7 @@ a:hover {
   font-size: 72px;
   line-height: 88px; 
   letter-spacing: 0.37px;
-  color: #FF6B00;
+  color: #ff6b00;
 }
 
 .p-me {
@@ -319,6 +319,7 @@ a:hover {
   margin-left: 10%;
   color: white;
 }
+
 .language > h3 {
   width: 60%;
   margin-left: 20%;
@@ -346,8 +347,6 @@ a:hover {
   font-size: 22px;
   line-height: 43px;
 }
-
-
 
 .framwork > h3 {
   width: 60%;
@@ -380,7 +379,6 @@ a:hover {
 .Skills {
   margin-bottom: 200px;
 }
-
 
 .Skills > h3 {
   width: 60%;
